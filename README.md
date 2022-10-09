@@ -5,10 +5,10 @@ Second edition of the Classic Pong game.
 
 ## Table of content :
 
-*[General Infos](#General-Infos)
-*[Technologies Used](#Technologies-Used)
-*[Composition](#Composition)
-*[Gameplay](#Gameplay)
+* [General Infos](#General-Infos)
+* [Technologies Used](#Technologies-Used)
+* [Composition](#Composition)
+* [Gameplay](#Gameplay)
 ### General Infos :
 
 This is my second version of the Pong game. I recreated the game after making major modifications to its structure. Using different methods to cover game control and fluent techniques.
