@@ -1,6 +1,6 @@
 # Pong 2.0
 
-?style=V21.3.7f1&logo=unity
+https://img.shields.io/badge/Unity-V21.3.7f1-blue
 
 Second edition of the Classic Pong game.
 ![Pong 2.0](./Images/Game.PNG)
