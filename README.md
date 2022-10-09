@@ -25,4 +25,4 @@ The major technologies used :
 ### Composition :
 
 In this project, i used basec C# OOP paradigmes to better orgonise the game's logic.
-Used simple Prefabs, a Linerender, RigideBody2D,2D Colliders and eventsystem to make a fluent game experience.
+Used simple Prefabs, a Linerender, RigideBody2D,2D Colliders, Cooler fonts and eventsystem to make a fluent game experience.
