@@ -1,13 +1,16 @@
 # Pong 2.0
 
+?style=V21.3.7f1&logo=unity
+
 Second edition of the Classic Pong game.
 ![Pong 2.0](./Images/Game.PNG)
 
 ## Table of content :
 
-[General Infos](#General-Infos)
-[Technologies Used](#Technologies-Used)
-[Composition](#Composition)
+- [General Infos](#General-Infos)
+- [Technologies Used](#Technologies-Used)
+- [Composition](#Composition)
+- [Gameplay](#Gameplay)
 
 ### General Infos :
 
@@ -25,4 +28,8 @@ The major technologies used :
 ### Composition :
 
 In this project, i used basec C# OOP paradigmes to better orgonise the game's logic.
-Used simple Prefabs, a Linerender, RigideBody2D,2D Colliders and eventsystem to make a fluent game experience.
+Used simple Prefabs, a Linerender, RigideBody2D,2D Colliders, Cooler fonts and eventsystem to make a fluent game experience.
+
+### Gameplay :
+
+The player will try to score against the machine (a simple AI) while the ball's speed increases with each collision using only eather the Z and S buttons or the Up and Down Arrows.
