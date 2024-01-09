@@ -1,5 +1,7 @@
 # Pong 2.0
 
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+
 Second edition of the Classic Pong game.
 ![Pong 2.0](./Images/Game.PNG)
 
